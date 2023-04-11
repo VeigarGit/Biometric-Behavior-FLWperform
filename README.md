@@ -14,7 +14,7 @@ In this new era of mobile devices with many types of sensors, IoT, and other dev
 
 # Big picture
 
-![alt text](https://github.com/VeigarGit/BiometricBehaviorFL/blob/main/big.pdf)
+![alt text](https://github.com/VeigarGit/BiometricBehaviorFL/blob/main/big.png)
 
 # federated_run.py
 
