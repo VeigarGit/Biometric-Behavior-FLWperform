@@ -1,4 +1,4 @@
-# User Identification from Accelerometer and Gyroscope Sensor with Federated Learning
+# A Federated Learning Approach for Continuous User Identification
 
 # Authors
 - Rafael Veiga 
@@ -10,7 +10,7 @@
 
 # Abstract
 
-In this new era of mobile devices with many types of sensors, IoT, and other devices with sensitive data, much of this data is shared for application apps. A smartphone can collect and use this data in machine learning approaches, and a request for this process is to use them with more user security. These sensors can collect biometric behaviors from users during their devices. However, an identification system using a mobile device does not need to share sensitive data, focusing on data security and sharing just user weights. This paper introduces a Federated Learning approach for defining an accelerometer and gyroscope using a unique identifier to identify a user's behavior for continuous user identification. This study used several convolutional neural networks (CNN) to evaluate their performance for IoT devices. Thus, our simulation revealed the best configuration using FCN with 5 and 3 epochs.
+Smartphones will remain key devices in the 6G era, where many applications and services will collect and share a lot of sensitive data. Smartphones can collect biometric behaviors from users during the use of devices, and the data will be analyzed and processed by machine learning approaches, where privacy and security issues are mandatory in 6G systems. However, an identification system using a mobile device does not need to share sensitive data, focusing on data security and sharing just user weights. In this paper, we propose a Federated Learning (FL) approach based on accelerometer and gyroscope data to identify a user's behavior for continuous user identification. This study evaluates the performance of accuracy, Loss, False Rejection Rate (FRR), weights and runtime processing of different Convolutional Neural Networks (CNN) for continuous user identification. The simulation results show that the best configuration is when using FCN with 4 and 3 epochs.
 
 # Big picture
 
