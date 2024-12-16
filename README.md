@@ -7,6 +7,8 @@
 - Iago Medeiros
 - Denis Rosário
 - Eduardo Cerqueira
+- S. Zeadally
+- L. Villas
 
 # Abstract
 
